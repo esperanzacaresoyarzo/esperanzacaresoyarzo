@@ -13,6 +13,12 @@ Me interesan la Ingeniería de Datos, la Inteligencia Artificial, la Ciberseguri
 
 ## Proyectos destacados
 
+### [Implementaciones de protocolos de red](https://github.com/JorgeEspinosaV/cc4303)
+
+Actividades desarrolladas en Python para el curso de Redes, incluyendo HTTP,
+DNS, Stop-and-Wait y control de congestión. El curso también abordó forwarding,
+fragmentación IP y BGP.
+
 ### [Aplicación web de objetos perdidos y encontrados](https://github.com/DCC-CC4401/2025-2-CC4401-grupo-10)
 
 Proyecto grupal desarrollado con Django. Incluye autenticación, perfiles de usuario,
