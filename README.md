@@ -13,9 +13,10 @@ Me interesan la Ingeniería de Datos, la Inteligencia Artificial, la Ciberseguri
 
 ## Proyectos destacados
 
-### Aplicación web de objetos perdidos y encontrados
+### [Aplicación web de objetos perdidos y encontrados](https://github.com/DCC-CC4401/2025-2-CC4401-grupo-10)
 
-Proyecto grupal desarrollado con Django. Incluye autenticación, perfiles de usuario, publicación de objetos, filtros, formularios y una base de datos relacional.
+Proyecto grupal desarrollado con Django. Incluye autenticación, perfiles de usuario,
+publicación de objetos, filtros, formularios y una base de datos relacional.
 
 ### IA generativa aplicada a Business Intelligence y Machine Learning
 
