@@ -24,9 +24,10 @@ fragmentación IP y BGP.
 Proyecto grupal desarrollado con Django. Incluye autenticación, perfiles de usuario,
 publicación de objetos, filtros, formularios y una base de datos relacional.
 
-### IA generativa aplicada a Business Intelligence y Machine Learning
+### [IA Generativa aplicada a Business Intelligence y Machine Learning](https://github.com/esperanzacaresoyarzo/generative-ai-business-analytics)
 
-Proyecto de comparación entre herramientas de IA para apoyar tareas de análisis de datos, construcción de modelos dimensionales, generación de visualizaciones y aplicación de modelos de machine learning.
+Comparación de herramientas de IA generativa para apoyar tareas de análisis de datos,
+modelamiento dimensional, visualización y Machine Learning.
 
 ### Proyecto de bases de datos
 
