@@ -26,9 +26,13 @@ Proyecto de comparación entre herramientas de IA para apoyar tareas de análisi
 
 Diseño de modelo entidad-relación, implementación en PostgreSQL, carga y limpieza de datos, consultas SQL complejas y optimización mediante índices y vistas.
 
-### Desarrollo de videojuegos
+### [PuduProd — Videojuego desarrollado en Godot](https://github.com/Jarinx/PuduProd)
 
-Diseño e implementación de videojuegos individuales y grupales utilizando Godot Engine.
+Videojuego grupal desarrollado para el Taller de Diseño y Desarrollo de Videojuegos.
+La mecánica principal utiliza pulsos de eco para revelar temporalmente el entorno
+y detectar enemigos.
+
+**Herramientas:** Godot Engine, GDScript y GitHub.
 
 ### Minería y análisis de datos
 
