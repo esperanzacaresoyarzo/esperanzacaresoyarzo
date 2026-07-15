@@ -50,6 +50,11 @@ Proyecto de Minería de Datos con clasificación, selección de atributos y clus
 aplicados a reservas hoteleras, utilizando Regresión Logística, Random Forest,
 Lasso y K-Means.
 
+### [Sistemas Operativos en C](https://github.com/esperanzacaresoyarzo/operating-systems-c)
+
+Implementaciones sobre concurrencia, sincronización, threads, spinlocks,
+timeouts y módulos de Linux desarrolladas en C.
+
 ## Experiencia
 
 - Auxiliar docente de Pensamiento Computacional
