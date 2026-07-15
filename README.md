@@ -44,9 +44,11 @@ y detectar enemigos.
 
 **Herramientas:** Godot Engine, GDScript y GitHub.
 
-### Minería y análisis de datos
+### [Predicción de cancelaciones hoteleras](https://github.com/esperanzacaresoyarzo/hotel-booking-cancellation-analysis)
 
-Preprocesamiento, visualización y experimentación con modelos mediante Python, Jupyter Notebook y Google Colab.
+Proyecto de Minería de Datos con clasificación, selección de atributos y clustering
+aplicados a reservas hoteleras, utilizando Regresión Logística, Random Forest,
+Lasso y K-Means.
 
 ## Experiencia
 
