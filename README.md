@@ -29,9 +29,11 @@ publicación de objetos, filtros, formularios y una base de datos relacional.
 Comparación de herramientas de IA generativa para apoyar tareas de análisis de datos,
 modelamiento dimensional, visualización y Machine Learning.
 
-### Proyecto de bases de datos
+### [Análisis de incidentes delictivos de Boston con PostgreSQL](https://github.com/esperanzacaresoyarzo/boston-crime-postgresql-analysis)
 
-Diseño de modelo entidad-relación, implementación en PostgreSQL, carga y limpieza de datos, consultas SQL complejas y optimización mediante índices y vistas.
+Diseño e implementación de una base de datos relacional normalizada en PostgreSQL,
+con carga de datos, consultas SQL complejas, funciones de ventana, optimización mediante
+índices y análisis de patrones delictivos.
 
 ### [PuduProd — Videojuego en Godot](https://github.com/Jarinx/PuduProd)
 
