@@ -50,6 +50,11 @@ Proyecto de Minería de Datos con clasificación, selección de atributos y clus
 aplicados a reservas hoteleras, utilizando Regresión Logística, Random Forest,
 Lasso y K-Means.
 
+### [Recuperación de Información Multimedia](https://github.com/esperanzacaresoyarzo/multimedia-information-retrieval)
+
+Implementaciones en Python para búsqueda de imágenes duplicadas o derivadas y
+detección de canciones en transmisiones de radio mediante descriptores visuales,
+MFCC y búsqueda por similitud.
 ### [Sistemas Operativos en C](https://github.com/esperanzacaresoyarzo/operating-systems-c)
 
 Implementaciones sobre concurrencia, sincronización, threads, spinlocks,
