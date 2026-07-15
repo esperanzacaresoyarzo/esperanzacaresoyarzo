@@ -4,7 +4,7 @@ Estudiante de quinto año de Ingeniería Civil en Computación en la Universidad
 
 Me interesan la Ingeniería de Datos, la Inteligencia Artificial, la Ciberseguridad y el Desarrollo de Software.
 
-## Tecnologías
+## Habilidades
 
 - **Lenguajes:** Python, C, SQL, R y Racket
 - **Desarrollo web:** Django, HTML y CSS
